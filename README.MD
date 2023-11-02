@@ -35,9 +35,3 @@ p || q
 and others ...
 
 Command to launch : `make -B`
-
-## why lex & yacc ?
-
-I choosed Lex and Yacc to identify the different expressions to suit our language.
-
-Futhermore, the semantics routines will help me in the next exercices to handle some functionnality.
