@@ -1,8 +1,6 @@
-## Representation des connaissances - AHMED ADJIBADE
+## satisfiable-logic-formula - AHMED ADJIBADE
 
-### Exercice 16
-
-My grammar :
+Grammar :
 
 ```
 F -> atom
